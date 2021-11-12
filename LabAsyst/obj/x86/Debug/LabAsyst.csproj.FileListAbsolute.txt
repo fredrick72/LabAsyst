@@ -1,0 +1,49 @@
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\LabAsyst.exe
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\LabAsyst.pdb
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\WebCam_Capture.dll
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.exe
+c:\users\eric\documents\visual studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.pdb
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.CV.dll
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.Util.dll
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\ZedGraph.dll
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.CV.xml
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.Util.xml
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\LabAsyst.exe.config
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\LabAsyst.exe.config
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.exe
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.pdb
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\LabAsyst.exe
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\LabAsyst.pdb
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\ZedGraph.dll
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.CV.xml
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.CV.UI.xml
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\Emgu.Util.xml
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.csprojResolveAssemblyReference.cache
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.Properties.Resources.resources
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.csproj.GenerateResource.Cache
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\CustomControls.dll
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\bin\Debug\CustomControls.pdb
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.ControlPanel.resources
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.DeviceConfigForm.resources
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.DeviceProperties.resources
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.Tuning.resources
+\\ERIC-PC\Users\Public\Documents\VS2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.TargetSetting.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\CustomControls.dll
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\uEyeDotNet.dll
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\CustomControls.pdb
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.ControlPanel.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.DeviceConfigForm.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.DeviceProperties.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.Tuning.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.TargetSetting.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.CameraControl.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.FormatControl.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.PictureControl.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.SettingsForm.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\obj\x86\Debug\LabAsyst.SizeControl.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\LabAsyst\LabAsyst\bin\Debug\MessagingToolkit.QRCode.dll
